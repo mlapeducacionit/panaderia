@@ -14,3 +14,7 @@ git config --global alias.c "commit -m"
 git show <HASH>
 git show 13145e2 # Ejemplo
 ```
+
+## Creando el archivo de configuración (Para solucioanr problema que no toma los estilos)
+
+<https://vitejs.dev/config/>
